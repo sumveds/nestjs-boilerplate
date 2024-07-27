@@ -94,8 +94,7 @@ docker-compose -f docker-compose.production.yml up --build
 
 ## Pending items
 
-1. Authentication & Authorization
-2. Security
-3. Linting and Formatting
-4. CI/CD integration
-5. API Documentation
+- [ ] Security
+- [ ] Database integration
+- [ ] CI/CD integration
+- [ ] API Documentation
